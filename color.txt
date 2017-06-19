@@ -1,0 +1,40 @@
+http://www.rapidtables.com/web/color/color-wheel.htm      Colores html
+
+http://www.ehu.eus/biomoleculas/index.htm  Curso de biomoleculas
+http://www.wormbook.org/chapters/www_reportergenefusions/reportergenefusions.html Reporter gene fussion
+http://www.bio.davidson.edu/courses/genomics/methodslist.html	Metodos en genomica
+http://www.plantasyhongos.es/ Plantas y Hongos
+http://www.seedbiology.de/index.html	Seed biology
+https://www.nature.com/scitable Science Scitable
+http://themedicalbiochemistrypage.org/ 	Medical biochemetry page
+https://www.rpi.edu/dept/bcbp/molbiochem/MBWeb/mb1/MB1index.html	Bioquimica del metabolismo
+http://www.xtal.iqfr.csic.es/Cristalografia/index-en.html	Cristalografia
+http://www.chemistry.uoguelph.ca/educmat/phy456/PHY456.htm	Estructura secundaria de proteina
+http://hackteria.org/wiki/Generic_Lab_Equipment		Generic lab equipmet
+https://www.nature.com/subjects/cancer-metabolism	Cancer metabolism
+http://molbiol-tools.ca/		Online bioinformatic analysis tools
+http://www.expasy.org/tools/		ExPASy Bioinformatic reosurces tools
+http://www.softberry.com/		Bioinformatic
+http://www.softberry.com/berry.phtml?topic=regsite  More Softberry
+http://www.softberry.com/berry.phtml?topic=index&group=programs&subgroup=promoter
+http://www.softberry.com/berry.phtml?topic=bprom&group=programs&subgroup=gfindb
+http://molbiol-tools.ca/Promoters.htm		Tool for promoters and terminators search
+http://pepper.molgenrug.nl/index.php/prokaryote-promoters		Prokariot promotors
+http://www.cif.iastate.edu/mass-spec/ms-tutorial	Mass spectrometry tutorial
+http://www.shimadzu.com/an/gcms/support/fundamentals/index.html		Shimadzu fundamental GC/MS
+http://www.astbury.leeds.ac.uk/facil/MStut/mstutorial.htm	An introduction to mass spectrometry
+http://libgen.io/	Genesis library
+http://www.biology-pages.info/ 	Kimball's biology page
+https://application.wiley-vch.de/books/sample/3527334645_c01.pdf	Introduction to mass spectrometry
+http://www.liceoagb.es/quimiorg/	Organic Chemistry
+http://r4ds.had.co.nz/		R for data Science
+http://www.saedsayad.com/data_mining_map.htm	An introduction to data mining
+http://flowingdata.com/2010/01/21/how-to-make-a-heatmap-a-quick-and-easy-solution/	How to make a heat map
+https://www.r-bloggers.com/superheat-supercharged-heatmaps-for-r/	Heat maps in R
+https://www.noble.org/medicago-handbook/	Medicago truncatula handbook
+https://www.r-bloggers.com/computing-and-visualizing-pca-in-r/		PCA in R
+https://human.biodigital.com/signin.html?signout=1	Biodigital Human anatomy
+https://www.nature.com/collections/qghhqm/	Nature Statistics for biologist
+http://www.socscistatistics.com/	Social Science Statistics
+https://www2.chemistry.msu.edu/faculty/reusch/VirtTxtJml/intro1.htm	Virtual textbook of organic chemistry
+http://www7.uc.cl/sw_educ/qda1106/CAP2/index.htm	Estrucutra de la materia
